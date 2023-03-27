@@ -32,7 +32,7 @@ This assignment is broken down into the following tasks:
   ### Generate summary statistics
    * DataFrame is grouped appropriately
     
-   * The following summary statistics are calculated
+   * The following summary statistics are calculated:
       * Mean
       * Median
       * Variance
