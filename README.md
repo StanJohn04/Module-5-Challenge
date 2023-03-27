@@ -77,11 +77,11 @@ This assignment is broken down into the following tasks:
 
 
   ### Create a line plot and a scatter plot.
-    *A line plot is generated that shows the tumor volume vs. time point for one mouse treated with Capomulin. (5 points)
+    *A line plot is generated that shows the tumor volume vs. time point for one mouse treated with Capomulin.
 ![download](https://user-images.githubusercontent.com/121142680/227997668-eb224fb2-b95e-4390-a849-573418eb5b13.png)
 
    
-    *A scatter plot is generated that shows average tumor volume vs. mouse weight for the Capomulin regimen. (5 points)
+    *A scatter plot is generated that shows average tumor volume vs. mouse weight for the Capomulin regimen.
  ![download](https://user-images.githubusercontent.com/121142680/227997711-aa6faf57-f098-4d96-bb32-034df086342c.png)
    
   ### Calculate correlation and regression.
