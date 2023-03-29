@@ -48,6 +48,7 @@ This assignment is broken down into the following tasks:
    * A bar plot showing the total number of timepoints for all mice tested for each drug regimen using Pandas is generated.
     
    * A bar plot showing the total number of timepoints for all mice tested for each drug regimen using pyplot is generated.
+   
 ![download](https://user-images.githubusercontent.com/121142680/227996964-a9ff1173-f898-4db3-beb7-d17680ac74b4.png)
 
     
@@ -73,6 +74,7 @@ This assignment is broken down into the following tasks:
    * A for loop is used to display the interquartile range (IQR) and the outliers for each treatment group 
     
    * A box plot is generated that shows the distribution of the final tumor volume for all the mice in each treatment group.
+   
 ![download](https://user-images.githubusercontent.com/121142680/227997459-24b2ab88-9314-4b8c-9e81-bf4e5ab61c38.png)
 
 
